@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
+``Jira``,``qase.io``,``SQL``,`` Postman``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Git``, ``Chrome DevTools``.
 
 
@@ -32,25 +32,36 @@
 Декомпозиция
 https://miro.com/app/board/uXjVMZCp2Fs=/
 
-Приемочные тест-кейсы:
- https://app.qase.io/project/K1K
-логин - anyazmr@yandex.ru
-пароль - 4mSCxmq@*11
 
 Функциональное  тестирование:
-тест-кейсы  https://app.qase.io/project/K1K?previewMode=side
-чек-лист Sitechco.ru 
-логин - anyazmr@yandex.ru
-пароль - 21mdz1t0zv
+
+
+<img width="821" alt="2" src="https://github.com/anyazmr/portfolio/assets/140955952/2ac7b53d-1959-4c93-8869-c6ccdc06cbdb">
+
+
+чек-лист 
+
+
+<img width="559" alt="1" src="https://github.com/anyazmr/portfolio/assets/140955952/807d3e22-b12a-4a99-9974-0a21949a60ee">
+<img width="566" alt="2" src="https://github.com/anyazmr/portfolio/assets/140955952/78c8c91b-3322-4432-970b-d66c5a293d67">
+<img width="561" alt="3" src="https://github.com/anyazmr/portfolio/assets/140955952/be1cc48c-9142-4145-a0c4-7ee4275eeb03">
+
 
 Smoke test
-тест-кейс Smoke test
+
+<img width="821" alt="3" src="https://github.com/anyazmr/portfolio/assets/140955952/333f2bd9-9733-431e-aaf1-1a17885005c4">
+
+
 
 Приемочные тест-кейсы
-тест-кейсы https://app.qase.io/project/K1K?previewMode=side&suite=1
+
+<img width="789" alt="1" src="https://github.com/anyazmr/portfolio/assets/140955952/fda727c3-2503-4fa7-b7a7-58fc4bb0e579">
+
+
+
 
 Отчетность по тестированию 
-Тест-кейсы: https://app.qase.io/project/K1K
+https://anyazmr.atlassian.net/wiki/spaces/~63bc44048a7d2f693bf680ea/pages/753675/1+2
 
 <p>Выводы (итоги):<p>
 <ol>
